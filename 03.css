@@ -1,0 +1,24 @@
+.color-1 {
+    color:rgba(216, 201, 177, 0.636)
+}
+
+.color-2 {
+    color: rgba(203, 252, 236, 0.685);
+}
+
+.color-3 {
+    color:#eee;
+}
+
+.color-4 {
+    color: rgb(0, 0, 0, 0.45);
+}
+
+.color-5 {
+    color: rgba(203, 255, 236, 0.45)
+}
+
+.lorem {
+    background-color: rgba(245, 245, 220, 0.796);
+    font-size: smaller;
+}

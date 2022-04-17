@@ -1,0 +1,16 @@
+.color-1 {
+border-width: 2px;
+border-style:groove;
+border-color:rgba(250, 235, 215, 0.83);
+}
+
+.color-2{
+    border: 2px groove rgba(250, 235, 215, 0.83);
+    border-radius: 6px;
+}
+
+.color-3{
+    border-left: 2px solid rgba(122, 140, 210, 0.83);
+    border-bottom-right-radius: 5 px;
+    padding-left: 10px;
+}

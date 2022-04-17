@@ -1,0 +1,27 @@
+/*comment*/
+body{
+    background-color: rgb(220, 228, 231);
+}
+
+.card{
+    padding: 10px;
+    background:rgb(215, 186, 217);
+
+}
+
+.html{
+    background: purple;
+    color:rgb(215, 186, 217)
+}
+.css{
+    background: purple;
+    color:rgb(215, 186, 217)
+}
+#header {
+    background:rgb(72, 95, 76);
+    padding: 10px;
+}
+#header, .card{
+    margin-bottom: 10px;font-size: 14px;
+    font-style: italic;
+}
